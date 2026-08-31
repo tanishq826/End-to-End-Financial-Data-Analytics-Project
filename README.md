@@ -555,15 +555,11 @@ DAX measures enable:
 
 ### Overview Dashboard
 
-```
-![Overview Dashboard](screenshots/dashboard_overview.png)
-```
+<img width="1302" height="722" alt="Screenshot 2026-08-31 152131" src="https://github.com/user-attachments/assets/b8f3142c-4686-4aca-88db-c32d048bdce4" />
 
 ### Details Dashboard
 
-```
-![Details Dashboard](screenshots/dashboard_details.png)
-```
+<img width="1301" height="730" alt="Screenshot 2026-08-31 152154" src="https://github.com/user-attachments/assets/22206f19-ab73-48ae-9b1b-0db5189c9520" />
 
 ---
 
