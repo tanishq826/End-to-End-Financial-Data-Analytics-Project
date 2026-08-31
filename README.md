@@ -551,7 +551,7 @@ DAX measures enable:
 ### Executive Summary
 
 ```
-![Summary Dashboard](screenshots/dashboard_summary.png)
+![Summary Dashboard](file:///C:/Users/Tanishq%20Saini/Pictures/Screenshots/Screenshot%202026-08-31%20152101.png)
 ```
 
 ### Lending Overview
