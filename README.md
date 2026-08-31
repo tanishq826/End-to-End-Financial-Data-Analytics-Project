@@ -551,7 +551,7 @@ DAX measures enable:
 ### Executive Summary
 
 ```
-<img width="1297" height="727" alt="Screenshot 2026-08-31 152101" src="https://github.com/user-attachments/assets/3599b3e8-1208-491e-906c-1c1710a605e8" />
+![Summary Dashboard](screenshots/Screenshot 2026-08-31 152101.png)
 ```
 
 ### Lending Overview
