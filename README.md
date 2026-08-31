@@ -548,19 +548,18 @@ DAX measures enable:
 
 # 📸 Dashboard Gallery
 
-### Executive Summary
+### Summary Dashboard
 
-```
-![Summary Dashboard](screenshots/Screenshot 2026-08-31 152101.png)
-```
+<img width="1297" height="727" alt="Screenshot 2026-08-31 152101" src="https://github.com/user-attachments/assets/18b29c3f-a3d2-48a1-a320-006d05cbfb75" />
 
-### Lending Overview
+
+### Overview Dashboard
 
 ```
 ![Overview Dashboard](screenshots/dashboard_overview.png)
 ```
 
-### Loan Details
+### Details Dashboard
 
 ```
 ![Details Dashboard](screenshots/dashboard_details.png)
